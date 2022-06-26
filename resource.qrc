@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image.jpg</file>
+        <file>listwidget.qss</file>
+        <file>scrollbar.qss</file>
+        <file>head.png</file>
+        <file>zf.png</file>
+    </qresource>
+</RCC>
